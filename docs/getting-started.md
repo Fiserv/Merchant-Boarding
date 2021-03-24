@@ -1,6 +1,6 @@
 # Getting Started 
 
-## Welcome to Merchant Boarding
+## Welcome to the Merchant Boarding
 
 The Fiserv Merchant Boarding APIs are built on the foundation of REST. The APIs accept standard JSON requests and return JSON encoded responses while leveraging industry standard [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) for a seamless integration. Merchant Boarding through CLX APIs provides the developer community the ability to retrieve transaction, chargeback, funding and settlement information in a simple and intuitive manner. You will find that access to itemized or summary data can be quickly initiated programmatically for statistical analysis purposes. 
 
