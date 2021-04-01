@@ -23,7 +23,7 @@
   "product": {
     "featured": true,
     "logoURL": "https://raw.githubusercontent.com/fiserv-digital-tech/dev-portal/main/assets/images/Fiserv_Logo.jpg",
-    "description": "Merchant Boiarding Application.",
+    "description": "Merchant Boarding Application.",
     "apiSpecification": "/v1/apis",
     "layout": "/v1/layouts",
     "documentation": "/v1/docs",
