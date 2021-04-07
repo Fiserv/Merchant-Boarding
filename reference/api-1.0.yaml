@@ -101,19 +101,19 @@ paths:
             '*/*':
               schema:
                 $ref: '#/components/schemas/CategoryModel'
-          application/json:
-            examples:
-              first:
-                summary: First example of a category
-                value:
-                  - name: test1
-                  - name: test2
-              cat:
-                summary: An example of a cat
-                value:
-                  id: 2
-                  name: Fluffy
-                  photoUrls: []
+            application/json:
+              examples:
+                first:
+                  summary: First example of a category
+                  value:
+                    - name: test1
+                    - name: test2
+                cat:
+                  summary: An example of a cat
+                  value:
+                    id: 2
+                    name: Fluffy
+                    photoUrls: []
   /marketplace/v1/products:
     get:
       tags:
