@@ -30,9 +30,9 @@
     "documenttree": "/v1/docs",
     "documenttreeV2": "/v2/docs"
   },
-  "feature":{
-    "sandBox": false,
-    "plugins": false
-  }
+  "feature":[
+    {"sandBox": false},
+    {"plugins": false}
+  ]
   
 }
