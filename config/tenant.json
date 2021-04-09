@@ -31,8 +31,14 @@
     "documenttreeV2": "/v2/docs"
   },
   "feature":[
-    {"sandBox": false},
-    {"plugins": false}
+    {
+      "name": "sandBox",
+      "value": false
+    },
+    {
+      "name": "plugins",
+      "value": false
+    }
   ]
   
 }
