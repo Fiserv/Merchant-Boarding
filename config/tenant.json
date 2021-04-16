@@ -31,9 +31,19 @@
     "documenttree": "/v1/docs",
     "documenttreeV2": "/v2/docs"
   },
-  "feature":[
-    {"sandBox": false},
-    {"plugins": false}
-  ]
+    "feature":[
+      {
+        "name": "sandBox",
+        "value": false
+      },
+      {
+        "name": "plugins",
+        "value": false
+      },
+      {
+        "name": "industryOptionsAPIExplorer",
+        "value": false
+      }
+   ]
   
 }
