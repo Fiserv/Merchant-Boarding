@@ -16,16 +16,34 @@
         }
       ]
     }
-
+  ],
+   "apiVersions": [
+   "1.0.0","1.0.1","1.1"
   ],
   "product": {
     "featured": true,
     "logoURL": "https://raw.githubusercontent.com/fiserv-digital-tech/dev-portal/main/assets/images/Fiserv_Logo.jpg",
-    "description": "Merchant Boiarding Application.",
-    "longDescription": "Merchant Boiarding Application.", 
+    "description": "Merchant Boarding Application.",
+    "longDescription": "Merchant Boarding Application.",
     "apiSpecification": "/v1/apis",
     "layout": "/v1/layouts",
     "documentation": "/v1/docs",
-    "documenttree": "/v1/docs"
-  }
+    "documenttree": "/v1/docs",
+    "documenttreeV2": "/v2/docs"
+  },
+    "feature":[
+      {
+        "name": "sandBox",
+        "value": false
+      },
+      {
+        "name": "plugins",
+        "value": false
+      },
+      {
+        "name": "industryOptionsAPIExplorer",
+        "value": false
+      }
+   ]
+  
 }
