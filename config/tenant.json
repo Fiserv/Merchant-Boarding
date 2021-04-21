@@ -17,8 +17,22 @@
       ]
     }
   ],
-   "apiVersions": [
-   "1.0.0","1.0.1","1.1"
+ "apiVersions": [
+    {
+      "version": "1.0.0",
+      "versionType": "minor",
+      "releaseNotesPath": "/release-notes/release-notes-1.0.0.md"
+    },
+    {
+      "version": "1.0.1",
+      "versionType": "minor",
+      "releaseNotesPath": "/release-notes/release-notes-1.0.1.md"
+    },
+    {
+      "version": "1.1",
+      "versionType": "major",
+      "releaseNotesPath": "/release-notes/release-notes-1.1.md"
+    }
   ],
   "product": {
     "featured": true,
