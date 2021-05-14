@@ -17,8 +17,12 @@
       ]
     }
   ],
-   "apiVersions": [
-   "1.0.0","1.0.1","1.1"
+ "apiVersions": [
+    {
+      "version": "1.0",
+      "versionType": "minor",
+      "releaseNotesPath": "/release-notes/release-notes-1.0.0.md"
+    }
   ],
   "product": {
     "featured": true,
@@ -34,7 +38,7 @@
     "feature":[
       {
         "name": "sandBox",
-        "value": false
+        "value": true
       },
       {
         "name": "plugins",
@@ -43,6 +47,10 @@
       {
         "name": "industryOptionsAPIExplorer",
         "value": false
+      },
+      {
+        "name": "editParameterAPIExplorer",
+        "value": true
       }
    ]
   
