@@ -6,7 +6,7 @@ info:
   license:
     name: ""
     url: http://licenseUrl
-  version: "1.0"
+  version: "1.0.0"
 servers:
 - url: //dev-developer.firstdata.com/api
 tags:
